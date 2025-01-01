@@ -13,7 +13,7 @@
 
 - 📝 LinkedIn profile [https://www.linkedin.com/in/gopikrishnan-nair-s-65b914247/](https://www.linkedin.com/in/gopikrishnan-nair-s-65b914247/)
 
-- 💬 Ask me about **Flutter, Dart, Integrations, Firebase, Offline databases**
+- 💬 Ask me about **Flutter, Dart,Service Integrations, Firebase,Rest Api integrations, Offline databases**
 
 - 📫 How to reach me **gopikrishnan2979@gmail.com**
 
