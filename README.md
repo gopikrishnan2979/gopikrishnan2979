@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopikrishnan2979" alt="gopikrishnan2979" /></a> </p>
 
-- 🔭 I’m currently working on [E commerce](https://github.com/gopikrishnan2979/time_craft)
+- 🔭 I’m currently working on [E commerce, Social media, CRMs](https://play.google.com/store/apps/details?id=in.net.touch.ui&hl=en_IN , https://play.google.com/store/apps/details?id=com.skilledanswers.sangeethacare&hl=en_IN , https://play.google.com/store/apps/details?id=com.pai.paiapp&hl=en_IN)
 
 - 🌱 I’m currently learning **Advanced Flutter**
 
